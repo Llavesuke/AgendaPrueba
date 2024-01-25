@@ -26,3 +26,9 @@ The secret of this incredible coffee its their mastermind and CEO Pablo, he reve
 > ## Constructors
 > ### Primary constructor 
 > The primary constructor initializes a `Cafetera` with a default location ("Cocina"), maximum capacity of 1000 c.c., and an initial actual capacity of 0.
+>
+> 
+This will create a callout with a code block style and a colored background:
+
+```markdown
+:warning: **Caution:** This is a warning message. It uses a code block with a background color.
