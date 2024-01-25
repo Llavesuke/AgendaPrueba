@@ -20,7 +20,7 @@ The secret of this incredible coffee its their mastermind and CEO Pablo, he reve
 >  ```kotlin
  >class Cafetera(private val location: String = "Cocina") {
    >// Properties
-    >var maxCapacity: Int = 1000
+   > var maxCapacity: Int = 1000
    > private var actualCapacity: Int = 0
 > ``` 
 > ## Constructors
