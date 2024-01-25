@@ -14,7 +14,7 @@ The secret of this incredible coffee its their mastermind and CEO Pablo, he reve
 
 ### CLASSES
 
-> [!info] CAFETERA
+> ### Cafetera
 >  The cafetera represents a coffee pot with different functionalities as filling, adding coffee, emptying and serving coffee to their clients on their beatiful mugs
 >  ## Class definition
 >  ```kotlin
